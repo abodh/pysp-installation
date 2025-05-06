@@ -1,0 +1,5 @@
+pysp @ git+https://github.com/Pyomo/pysp@main
+pyomo==6.0.0
+pyro4
+networkx==2.6.2
+gurobipy
