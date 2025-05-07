@@ -14,8 +14,8 @@ This repo serves as an installation instructions for pysp, a stochastic optimiza
     ```bash
     pip install -r requirements.txt
     ```   
-    >[!Warning]
-    > You must install `python<=3.9.x`. I have successfully tested the installation with `python=3.9.5` so I recommend installing the same version for avoiding installation conflicts.
+>[!Warning]
+> You must install `python<=3.9.x`. I have successfully tested the installation with `python=3.9.5` so I recommend installing the same version for avoiding installation conflicts.
 3. Now you have installed the necessary packages and ready to run your model in parallel. Note that only progressive hedging can be run in parallel. 
 4. An example command to run your problem in parallel is shown below:
    
